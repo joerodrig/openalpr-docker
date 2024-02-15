@@ -5,7 +5,7 @@ FROM ubuntu:16.04
 
 # Contact info
 LABEL maintainerName="Joe"
-LABEL maintainer="joerodrig3@gmail.com"
+LABEL maintainer="joe+gh@urbaneoptics.com"
 
 # Installing wget to run examples
 # Installing base packages specified by 
